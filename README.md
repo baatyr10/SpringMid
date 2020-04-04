@@ -1,2 +1,2 @@
 # SpringMid
-Midterm by java 
+Java MidTerm 2nd semester
